@@ -20,11 +20,10 @@ The Twitter Effect (TE)
 3. Karl Franzens Universität Graz
 4. Karl Franzens Universität Graz
 
-# Section B: Short Project Description 
+# Short Project Description 
 ## 1. Keywords (topics represented in the proposal, max. 5) 
 predicting election results, digital humanities methods, twitter, topic modelling, sentiment analysis
-## 2. Disciplines 
- (max. 5, referring to Statistik Austria) https://www.fwf.ac.at/fileadmin/files/Dokumente/Antragstellung/wiss-disz-201908.pdf ) 
+## 2. Disciplines  
 
 * 602011 Computational Linguistics
 * 605007 Digital Humanities
