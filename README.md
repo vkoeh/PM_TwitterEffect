@@ -1,10 +1,9 @@
 # PM_TwitterEffect
 
-# Section A: Application Form 
+
 ## 1. Project title 
-The Twitter Effect
-## 2. Acronym 
-TE
+The Twitter Effect (TE)
+
 ## 3. Principal investigators (Principal investigator 1 = coordinator) 
 
 
@@ -13,7 +12,7 @@ TE
 | Schöngruber   | Sarah		    | f    |Dipl.-Ing. Dr.techn.|
 | Csuk	        | Theresa       | f    |BSc BA M.A. MSc 	|
 | Lesjak	    | Ines	        | f    |Prof. Dr. 			|
-| Köhnlein	    | Viktoria      | f    | 					|
+| Köhnlein	    | Viktoria      | f    | 		Dr.			|
 
 ## 4. Host institutions (The index numbers have to match with those of the principal investigators of section A.3) 
 1. Karl Franzens Universität Graz
