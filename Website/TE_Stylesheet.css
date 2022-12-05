@@ -1,11 +1,23 @@
-﻿/*
+﻿body {
+    background: url(Twitter_Logo.png) bottom right no-repeat fixed;
+}
+body {
+    background-color: whitesmoke;
+}
+
 .flex {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+/*
 h1 {
     font-family: Garamond, serif;
     font-weight: normal;
@@ -17,5 +29,9 @@ h1 {
 */
 
 #h1_TE {
-    color: aqua;
+    color: whitesmoke;
+}
+
+#offcanvas_button {
+    justify-content: space-around;
 }
