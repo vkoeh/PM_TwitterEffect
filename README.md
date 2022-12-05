@@ -20,9 +20,6 @@ The Twitter Effect (TE)
 3. Karl Franzens Universität Graz
 4. Karl Franzens Universität Graz
 
-## 5. Indicative budget (sum total, including 10 % overheads) 
-EUR 219.945,00
-
 # Section B: Short Project Description 
 ## 1. Keywords (topics represented in the proposal, max. 5) 
 predicting election results, digital humanities methods, twitter, topic modelling, sentiment analysis
